@@ -1,0 +1,4 @@
+input_processing.c:26:13:normalize_durations	4	static
+input_processing.c:43:13:advance_road	16	static
+input_processing.c:49:13:increase_temp	4	static
+input_processing.c:54:6:fsm_for_input_processing	8	static

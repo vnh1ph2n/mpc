@@ -1,0 +1,9 @@
+led_display.c:18:16:clamp99	16	static
+led_display.c:22:6:update_7seg_buffer_normal	16	static
+led_display.c:31:6:update_7seg_buffer_mode	16	static
+led_display.c:40:6:display_7seg_scan	16	static
+led_display.c:57:13:blink_pair	16	static
+led_display.c:64:6:blink_all_red_leds	8	static
+led_display.c:65:6:blink_all_amber_leds	8	static
+led_display.c:66:6:blink_all_green_leds	8	static
+led_display.c:69:6:display_traffic_light_normal	16	static
